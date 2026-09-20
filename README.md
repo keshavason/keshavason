@@ -19,7 +19,7 @@ This work is informed by [MiTrabajadorIA’s methodology](https://mitrabajadoria
 
 Responsible AI is a starting point. Circular economy, sustainable development and honest marketing are further areas where I want to test the same discipline: explain the claim, show the evidence, acknowledge limits and correct mistakes. These are areas of work and inquiry, not claims of demonstrated environmental impact.
 
-**satya-review** is a local prototype for a readable Spanish/English release review, linked to the reviewed files. It helps document eight practical questions and detect later file changes. Public release is in preparation.
+**[satya-review v0.1.0](https://github.com/keshavason/satya-review)** is an open-source prototype for readable release reviews linked to the reviewed files. It helps document eight practical questions and detect later file changes. The source, Spanish/English documentation and runnable examples are now public.
 
 Its records do not authenticate reviewers or certify ethics, security or legal compliance. The usefulness of this approach still needs feedback from external users.
 
