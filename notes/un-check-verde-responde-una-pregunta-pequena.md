@@ -37,4 +37,3 @@ La próxima vez que veas un check verde, prueba esta pregunta: **«¿Qué demues
 - [Metodología de MiTrabajadorIA](https://mitrabajadoria.es/metodologia)
 
 Los análisis estáticos están vinculados internamente a sus snapshots exactos. No se presentan como reproducción dinámica, auditoría independiente, certificación ni aprobación humana. El PR continúa abierto y en borrador.
-
