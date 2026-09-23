@@ -11,13 +11,23 @@ This work is informed by [MiTrabajadorIA’s methodology](https://mitrabajadoria
 ## What guides the work
 
 - **Evidence:** distinguish intentions, observations and tested results; keep sources, versions and unresolved questions visible.
-- **Privacy and autonomy:** use only the data needed, protect people's choices and consider who bears the costs.
+- **Privacy and autonomy:** use only the data needed, protect people’s choices and consider who bears the costs.
 - **Accountability:** make purpose, scope, authority and responsibility explicit before consequential actions.
 - **Repair:** record mistakes, correct their effects and improve the process without hiding its history.
 
 ## Current work
 
 Responsible AI is a starting point. Circular economy, sustainable development and honest marketing are further areas where I want to test the same discipline: explain the claim, show the evidence, acknowledge limits and correct mistakes. These are areas of work and inquiry, not claims of demonstrated environmental impact.
+
+## Project map / Mapa de proyectos
+
+These portals have distinct purposes; sharing a personal mission does not mean they share accounts, data or services.
+
+- **[KeshavaSon Hub](https://keshavason.com/)** — A personal lab for public tools, guides and learning about responsible AI. / Laboratorio personal de herramientas, guías y aprendizaje público sobre IA responsable.
+- **[AJUTIA](https://ajutia.com/)** — Business-facing services and digital operations. / Servicios empresariales y operaciones digitales.
+- **[InfoBot.es](https://infobot.es/)** — A separate automation and digital-assistance project. / Proyecto independiente de automatización y asistencia digital.
+- **[MiTrabajadorIA](https://mitrabajadoria.es/metodologia)** — The methodology behind practical work on ethics, evidence, responsibility and repair. / La metodología que orienta el trabajo práctico sobre ética, evidencia, responsabilidad y reparación.
+- **[2953.app](https://2953.app/)** — A spiritual and editorial project; reflective practices are not presented as scientific diagnosis. / Proyecto espiritual y editorial; las prácticas de reflexión no se presentan como diagnóstico científico.
 
 **[satya-review v0.1.0](https://github.com/keshavason/satya-review)** is an open-source prototype for readable release reviews linked to the reviewed files. It helps document eight practical questions and detect later file changes. The source, Spanish/English documentation and runnable examples are now public.
 
@@ -34,9 +44,9 @@ Useful contributions include reproducible examples, failure cases, accessibility
 ## Background and ongoing learning
 
 - Entrepreneurship and business activity since the age of 20.
-- Master's in Digital Marketing and Ecommerce, EAE Barcelona.
-- Master's studies in Circular Economy and Sustainable Development, VIU — **final master's project (TFM) pending**.
-- Currently studying the AI master's programme at Big School.
+- Master’s in Digital Marketing and Ecommerce, EAE Barcelona.
+- Master’s studies in Circular Economy and Sustainable Development, VIU — **final master’s project (TFM) pending**.
+- Currently studying the AI master’s programme at Big School.
 
 This is my own account of my background. The work published here should be assessed on its evidence and usefulness.
 
