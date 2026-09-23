@@ -11,7 +11,7 @@ This work is informed by [MiTrabajadorIA’s methodology](https://mitrabajadoria
 ## What guides the work
 
 - **Evidence:** distinguish intentions, observations and tested results; keep sources, versions and unresolved questions visible.
-- **Privacy and autonomy:** use only the data needed, protect people’s choices and consider who bears the costs.
+- **Privacy and autonomy:** use only the data needed, protect people's choices and consider who bears the costs.
 - **Accountability:** make purpose, scope, authority and responsibility explicit before consequential actions.
 - **Repair:** record mistakes, correct their effects and improve the process without hiding its history.
 
@@ -44,9 +44,9 @@ Useful contributions include reproducible examples, failure cases, accessibility
 ## Background and ongoing learning
 
 - Entrepreneurship and business activity since the age of 20.
-- Master’s in Digital Marketing and Ecommerce, EAE Barcelona.
-- Master’s studies in Circular Economy and Sustainable Development, VIU — **final master’s project (TFM) pending**.
-- Currently studying the AI master’s programme at Big School.
+- Master's in Digital Marketing and Ecommerce, EAE Barcelona.
+- Master’s studies in Circular Economy and Sustainable Development, VIU — **final master's project (TFM) pending**.
+- Currently studying the AI master's programme at Big School.
 
 This is my own account of my background. The work published here should be assessed on its evidence and usefulness.
 
