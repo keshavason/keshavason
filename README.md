@@ -19,16 +19,6 @@ This work is informed by [MiTrabajadorIA’s methodology](https://mitrabajadoria
 
 Responsible AI is a starting point. Circular economy, sustainable development and honest marketing are further areas where I want to test the same discipline: explain the claim, show the evidence, acknowledge limits and correct mistakes. These are areas of work and inquiry, not claims of demonstrated environmental impact.
 
-## Project map / Mapa de proyectos
-
-These portals have distinct purposes; sharing a personal mission does not mean they share accounts, data or services.
-
-- **[KeshavaSon Hub](https://keshavason.com/)** — A personal lab for public tools, guides and learning about responsible AI. / Laboratorio personal de herramientas, guías y aprendizaje público sobre IA responsable.
-- **[AJUTIA](https://ajutia.com/)** — Business-facing services and digital operations. / Servicios empresariales y operaciones digitales.
-- **[InfoBot.es](https://infobot.es/)** — A separate automation and digital-assistance project. / Proyecto independiente de automatización y asistencia digital.
-- **[MiTrabajadorIA](https://mitrabajadoria.es/metodologia)** — The methodology behind practical work on ethics, evidence, responsibility and repair. / La metodología que orienta el trabajo práctico sobre ética, evidencia, responsabilidad y reparación.
-- **[2953.app](https://2953.app/)** — A spiritual and editorial project; reflective practices are not presented as scientific diagnosis. / Proyecto espiritual y editorial; las prácticas de reflexión no se presentan como diagnóstico científico.
-
 **[satya-review v0.1.0](https://github.com/keshavason/satya-review)** is an open-source prototype for readable release reviews linked to the reviewed files. It helps document eight practical questions and detect later file changes. The source, Spanish/English documentation and runnable examples are now public.
 
 Its records do not authenticate reviewers or certify ethics, security or legal compliance. The usefulness of this approach still needs feedback from external users.
@@ -61,3 +51,13 @@ Desarrollo herramientas para que la IA sea más comprensible, revisable y útil 
 **Robert Vlad Ulica · KeshavaSon** es mi identidad pública para esta aportación personal. AJUTIA es la vía empresarial. La economía circular, la sostenibilidad y el marketing responsable son ámbitos donde aplicar estos principios. Mi formación en VIU tiene el TFM pendiente y el máster de IA en Big School sigue en curso.
 
 [Conoce la metodología de MiTrabajadorIA](https://mitrabajadoria.es/metodologia).
+
+## Project map / Mapa de proyectos
+
+These portals have distinct purposes; sharing a personal mission does not mean they share accounts, data or services.
+
+- **[KeshavaSon Hub](https://keshavason.com/)** — A personal lab for public tools, guides and learning about responsible AI. / Laboratorio personal de herramientas, guías y aprendizaje público sobre IA responsable.
+- **[AJUTIA](https://ajutia.com/)** — Business-facing services and digital operations. / Servicios empresariales y operaciones digitales.
+- **[InfoBot.es](https://infobot.es/)** — A separate automation and digital-assistance project. / Proyecto independiente de automatización y asistencia digital.
+- **[MiTrabajadorIA](https://mitrabajadoria.es/metodologia)** — The methodology behind practical work on ethics, evidence, responsibility and repair. / La metodología que orienta el trabajo práctico sobre ética, evidencia, responsabilidad y reparación.
+- **[2953.app](https://2953.app/)** — A spiritual and editorial project; reflective practices are not presented as scientific diagnosis. / Proyecto espiritual y editorial; las prácticas de reflexión no se presentan como diagnóstico científico.
