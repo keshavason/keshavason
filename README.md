@@ -45,7 +45,7 @@ Useful contributions include reproducible examples, failure cases, accessibility
 
 - Entrepreneurship and business activity since the age of 20.
 - Master's in Digital Marketing and Ecommerce, EAE Barcelona.
-- Master’s studies in Circular Economy and Sustainable Development, VIU — **final master's project (TFM) pending**.
+- Master's studies in Circular Economy and Sustainable Development, VIU — **final master's project (TFM) pending**.
 - Currently studying the AI master's programme at Big School.
 
 This is my own account of my background. The work published here should be assessed on its evidence and usefulness.
