@@ -23,6 +23,8 @@ Responsible AI is a starting point. Circular economy, sustainable development an
 
 Its records do not authenticate reviewers or certify ethics, security or legal compliance. The usefulness of this approach still needs feedback from external users.
 
+**Evidence note / nota de evidencia:** [Un check verde responde una pregunta pequeña](notes/un-check-verde-responde-una-pregunta-pequena.md) explains what a passing check proves, what a later security review changed, and which limits remain open.
+
 ## Collaborate
 
 I welcome engineers, researchers and practitioners from businesses, civil society and public institutions who want to test these ideas against real constraints.
